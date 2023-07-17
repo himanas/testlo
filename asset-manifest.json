@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/himanas/testlo.git/static/css/main.2afde01a.css",
+    "main.js": "/himanas/testlo.git/static/js/main.87cdce55.js",
+    "index.html": "/himanas/testlo.git/index.html",
+    "main.2afde01a.css.map": "/himanas/testlo.git/static/css/main.2afde01a.css.map",
+    "main.87cdce55.js.map": "/himanas/testlo.git/static/js/main.87cdce55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2afde01a.css",
+    "static/js/main.87cdce55.js"
+  ]
+}
